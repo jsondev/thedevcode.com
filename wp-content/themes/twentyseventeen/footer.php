@@ -15,7 +15,7 @@
 ?>
 
 		</div><!-- #content -->
-
+<h1>Footer Area</h1>
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
 				<?php
